@@ -57,17 +57,3 @@ Feel free to reach out or check out my work:
 * 💼 LinkedIn: "https://www.linkedin.com/in/amirali-noorollahian"
 
 ---
-
-### 🔥 GitHub Stats (Add your username):
-
-```md
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAliNRL&show_icons=true&theme=react)
-```
-
-### 📊 Most Used Languages:
-
-```md
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAliNRL&layout=compact&theme=react)
-```
-
----
